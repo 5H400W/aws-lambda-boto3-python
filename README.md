@@ -1,2 +1,1 @@
-# aws-lambda-python
-aws-lambda-python
+#aws-lambda-boto3-python
